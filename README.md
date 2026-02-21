@@ -1,5 +1,6 @@
 FUNCTION multiply(matrixA, matrixB):
-   
+
+    BEGIN
     // Get dimensions
     rowsA = length of matrixA
     colsA = length of matrixA[0]
